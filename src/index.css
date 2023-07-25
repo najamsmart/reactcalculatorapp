@@ -36,7 +36,7 @@ body {
 }
 
 .button {
-  background: #75c579;
+  background: #54b559;
   height: 3.5rem;
   padding: 10px;
   border-radius: 90px;
@@ -50,11 +50,11 @@ body {
 }
 
 .button:hover {
-  border: 2px dotted #242424;
+  border: 2px dotted #463838;
 }
 
 .equals {
-  background: #066402;
+  background: #5dad5b;
   grid-column: 4/5;
 }
 
