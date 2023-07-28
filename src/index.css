@@ -44,20 +44,20 @@ body {
   align-items: center;
   justify-content: center;
   cursor: pointer;
-  color: #242424;
+  color: #d26060;
   border: none;
   font-size: 1.6rem;
 }
 
 .button:hover {
-  border: 2px dotted #463838;
+  border: 2px dotted #b76464;
 }
 
 .equals {
-  background: #5dad5b;
+  background: #54d252;
   grid-column: 4/5;
 }
 
 .opt {
-  background: #31d839;
+  background: #15f120;
 }
