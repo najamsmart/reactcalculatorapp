@@ -21,7 +21,7 @@ body {
 }
 
 .wrapper {
-  background: #eeeec8;
+  background: #eeee07;
   width: 20rem;
   padding: 1rem;
   margin-top: 4rem;
@@ -39,25 +39,25 @@ body {
   background: #54b559;
   height: 3.5rem;
   padding: 10px;
-  border-radius: 90px;
+  border-radius: 100px;
   display: flex;
   align-items: center;
   justify-content: center;
   cursor: pointer;
-  color: #d26060;
+  color: #f80202;
   border: none;
   font-size: 1.6rem;
 }
 
 .button:hover {
-  border: 2px dotted #b76464;
+  border: 2px dotted #cd3232;
 }
 
 .equals {
-  background: #54d252;
+  background: #7fe17e;
   grid-column: 4/5;
 }
 
 .opt {
-  background: #15f120;
+  background: #00ff0d;
 }
